@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development in Node.js**
 
-- 📫 How to reach me **thesaranshyadav@gmail.com**
+- 📫 How to reach me **imsaranshy@gmail.com**
 
 - ⚡ Fun fact **Like to watch Animes**
 
